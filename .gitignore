@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 .env
+Readme.txt.rtf
+.DS_Store
+rsi_agent_modified.py
+rsi_agent_v01.py
